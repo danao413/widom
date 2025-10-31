@@ -8,7 +8,6 @@ authors = [
 description = "A Python package for performing Widom insertion simulations to calculate gas adsorption properties in porous materials"
 readme = "README.md"
 license = "Apache-2.0"
-requires-python = ">=3.12"
 dependencies = [
     "ase>=3.25.0",
     "numpy>=2.2.6",
